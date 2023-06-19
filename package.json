@@ -12,7 +12,7 @@
     "bootsplash": "yarn react-native generate-bootsplash src/assets/bootsplash_logo_original.png --background-color=edf109 --logo-width=250 --assets-path=assets --flavor=main"
   },
   "dependencies": {
-    "@react-navigation/drawer": "^6.4.1",
+    "@react-navigation/drawer": "^6.6.2",
     "@react-navigation/native": "^6.0.10",
     "@react-navigation/native-stack": "^6.6.2",
     "@types/react": "^17",
